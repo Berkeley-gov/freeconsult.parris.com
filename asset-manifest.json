@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.5de5d74e.css",
-    "main.js": "/static/js/main.370489f7.js",
+    "main.css": "/static/css/main.178d0981.css",
+    "main.js": "/static/js/main.b9a84e88.js",
     "static/js/713.3ceb2417.chunk.js": "/static/js/713.3ceb2417.chunk.js",
     "static/js/94.aa63cbb4.chunk.js": "/static/js/94.aa63cbb4.chunk.js",
-    "static/js/468.ebdbd179.chunk.js": "/static/js/468.ebdbd179.chunk.js",
-    "static/js/322.6a28fb5e.chunk.js": "/static/js/322.6a28fb5e.chunk.js",
-    "static/css/413.53cb674c.chunk.css": "/static/css/413.53cb674c.chunk.css",
+    "static/js/468.a98fa41c.chunk.js": "/static/js/468.a98fa41c.chunk.js",
+    "static/js/322.8f38842c.chunk.js": "/static/js/322.8f38842c.chunk.js",
+    "static/css/413.056bff22.chunk.css": "/static/css/413.056bff22.chunk.css",
     "static/js/413.7b2a1e6d.chunk.js": "/static/js/413.7b2a1e6d.chunk.js",
     "static/js/787.1994acba.chunk.js": "/static/js/787.1994acba.chunk.js",
     "static/js/316.ee17486a.chunk.js": "/static/js/316.ee17486a.chunk.js",
@@ -22,23 +22,23 @@
     "static/media/lisa-parris-law-firm-client-testimonial.webp": "/static/media/lisa-parris-law-firm-client-testimonial.ff10aa2c160f4096dcce.webp",
     "static/media/aspen-parris-law-firm-client-testimonial.webp": "/static/media/aspen-parris-law-firm-client-testimonial.3730f4d031d7c9c44b0a.webp",
     "static/media/armando-parris-law-firm-client-testimonial.webp": "/static/media/armando-parris-law-firm-client-testimonial.d7dbe1ab4ad84b453782.webp",
-    "static/media/5-star-review-for-personal-injury-attorney-law-firm.webp": "/static/media/5-star-review-for-personal-injury-attorney-law-firm.c13235d0cfcf88db08f7.webp",
     "index.html": "/index.html",
+    "static/media/5-star-review-for-personal-injury-attorney-law-firm.webp": "/static/media/5-star-review-for-personal-injury-attorney-law-firm.c13235d0cfcf88db08f7.webp",
     "static/media/arrow-up-circle.svg": "/static/media/arrow-up-circle.5bedee1373e758ae03b2.svg",
-    "main.5de5d74e.css.map": "/static/css/main.5de5d74e.css.map",
-    "main.370489f7.js.map": "/static/js/main.370489f7.js.map",
+    "main.178d0981.css.map": "/static/css/main.178d0981.css.map",
+    "main.b9a84e88.js.map": "/static/js/main.b9a84e88.js.map",
     "713.3ceb2417.chunk.js.map": "/static/js/713.3ceb2417.chunk.js.map",
     "94.aa63cbb4.chunk.js.map": "/static/js/94.aa63cbb4.chunk.js.map",
-    "468.ebdbd179.chunk.js.map": "/static/js/468.ebdbd179.chunk.js.map",
-    "322.6a28fb5e.chunk.js.map": "/static/js/322.6a28fb5e.chunk.js.map",
-    "413.53cb674c.chunk.css.map": "/static/css/413.53cb674c.chunk.css.map",
+    "468.a98fa41c.chunk.js.map": "/static/js/468.a98fa41c.chunk.js.map",
+    "322.8f38842c.chunk.js.map": "/static/js/322.8f38842c.chunk.js.map",
+    "413.056bff22.chunk.css.map": "/static/css/413.056bff22.chunk.css.map",
     "413.7b2a1e6d.chunk.js.map": "/static/js/413.7b2a1e6d.chunk.js.map",
     "787.1994acba.chunk.js.map": "/static/js/787.1994acba.chunk.js.map",
     "316.ee17486a.chunk.js.map": "/static/js/316.ee17486a.chunk.js.map",
     "472.11565c02.chunk.js.map": "/static/js/472.11565c02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5de5d74e.css",
-    "static/js/main.370489f7.js"
+    "static/css/main.178d0981.css",
+    "static/js/main.b9a84e88.js"
   ]
 }

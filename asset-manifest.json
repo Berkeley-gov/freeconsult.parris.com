@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8ecf8dae.css",
-    "main.js": "/static/js/main.922705ab.js",
+    "main.css": "/static/css/main.5a11d7fc.css",
+    "main.js": "/static/js/main.99f13578.js",
     "static/js/713.d31fca72.chunk.js": "/static/js/713.d31fca72.chunk.js",
     "static/js/94.7fc772b2.chunk.js": "/static/js/94.7fc772b2.chunk.js",
     "static/js/468.34c01bd3.chunk.js": "/static/js/468.34c01bd3.chunk.js",
@@ -25,8 +25,8 @@
     "index.html": "/index.html",
     "static/media/5-star-review-for-personal-injury-attorney-law-firm.webp": "/static/media/5-star-review-for-personal-injury-attorney-law-firm.c13235d0cfcf88db08f7.webp",
     "static/media/arrow-up-circle.svg": "/static/media/arrow-up-circle.5bedee1373e758ae03b2.svg",
-    "main.8ecf8dae.css.map": "/static/css/main.8ecf8dae.css.map",
-    "main.922705ab.js.map": "/static/js/main.922705ab.js.map",
+    "main.5a11d7fc.css.map": "/static/css/main.5a11d7fc.css.map",
+    "main.99f13578.js.map": "/static/js/main.99f13578.js.map",
     "713.d31fca72.chunk.js.map": "/static/js/713.d31fca72.chunk.js.map",
     "94.7fc772b2.chunk.js.map": "/static/js/94.7fc772b2.chunk.js.map",
     "468.34c01bd3.chunk.js.map": "/static/js/468.34c01bd3.chunk.js.map",
@@ -38,7 +38,7 @@
     "472.11565c02.chunk.js.map": "/static/js/472.11565c02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ecf8dae.css",
-    "static/js/main.922705ab.js"
+    "static/css/main.5a11d7fc.css",
+    "static/js/main.99f13578.js"
   ]
 }

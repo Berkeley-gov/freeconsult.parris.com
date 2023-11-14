@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.50dce137.css",
-    "main.js": "/static/js/main.51a17ab0.js",
+    "main.css": "/static/css/main.9ce29568.css",
+    "main.js": "/static/js/main.ba38dde3.js",
     "static/js/713.2eef7684.chunk.js": "/static/js/713.2eef7684.chunk.js",
     "static/js/94.4a787d0e.chunk.js": "/static/js/94.4a787d0e.chunk.js",
     "static/js/468.1ba114c4.chunk.js": "/static/js/468.1ba114c4.chunk.js",
     "static/js/322.55d597e5.chunk.js": "/static/js/322.55d597e5.chunk.js",
-    "static/css/417.0e6fb38d.chunk.css": "/static/css/417.0e6fb38d.chunk.css",
+    "static/css/417.76dce695.chunk.css": "/static/css/417.76dce695.chunk.css",
     "static/js/417.f95247ab.chunk.js": "/static/js/417.f95247ab.chunk.js",
     "static/js/787.1994acba.chunk.js": "/static/js/787.1994acba.chunk.js",
     "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.449ad8adf6ae0424b7ed.woff",
@@ -23,18 +23,18 @@
     "index.html": "/index.html",
     "static/media/5-star-review-for-personal-injury-attorney-law-firm.webp": "/static/media/5-star-review-for-personal-injury-attorney-law-firm.c13235d0cfcf88db08f7.webp",
     "static/media/arrow-up-circle.svg": "/static/media/arrow-up-circle.5bedee1373e758ae03b2.svg",
-    "main.50dce137.css.map": "/static/css/main.50dce137.css.map",
-    "main.51a17ab0.js.map": "/static/js/main.51a17ab0.js.map",
+    "main.9ce29568.css.map": "/static/css/main.9ce29568.css.map",
+    "main.ba38dde3.js.map": "/static/js/main.ba38dde3.js.map",
     "713.2eef7684.chunk.js.map": "/static/js/713.2eef7684.chunk.js.map",
     "94.4a787d0e.chunk.js.map": "/static/js/94.4a787d0e.chunk.js.map",
     "468.1ba114c4.chunk.js.map": "/static/js/468.1ba114c4.chunk.js.map",
     "322.55d597e5.chunk.js.map": "/static/js/322.55d597e5.chunk.js.map",
-    "417.0e6fb38d.chunk.css.map": "/static/css/417.0e6fb38d.chunk.css.map",
+    "417.76dce695.chunk.css.map": "/static/css/417.76dce695.chunk.css.map",
     "417.f95247ab.chunk.js.map": "/static/js/417.f95247ab.chunk.js.map",
     "787.1994acba.chunk.js.map": "/static/js/787.1994acba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.50dce137.css",
-    "static/js/main.51a17ab0.js"
+    "static/css/main.9ce29568.css",
+    "static/js/main.ba38dde3.js"
   ]
 }

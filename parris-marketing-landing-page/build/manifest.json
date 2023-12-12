@@ -1,0 +1,27 @@
+{
+  "short_name": "PARRIS Law Firm",
+  "name": "PARRIS Law Firm - Personal Injury Attorneys",
+  "icons": [
+    {
+      "src": "parris-law-firm-logo-stamp.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "parris-law-firm-logo-stamp.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "parris-law-firm-logo-stamp.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "orientation": "portrait",
+  "scope": "/"
+}
